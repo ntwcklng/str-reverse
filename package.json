@@ -1,0 +1,23 @@
+{
+  "name": "str-reverse",
+  "version": "1.0.0",
+  "description": "Reverse a String",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntwcklng/str-reverse.git"
+  },
+  "keywords": [],
+  "author": "Marvin Mieth <ntwcklng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntwcklng/str-reverse/issues"
+  },
+  "homepage": "https://github.com/ntwcklng/str-reverse#readme",
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
